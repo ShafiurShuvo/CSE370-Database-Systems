@@ -58,7 +58,7 @@ Follow these steps to set up your local development environment:
 #### Step 1: Download XAMPP
 1. Go to https://www.apachefriends.org/index.html
 2. Download XAMPP for your operating system (Windows, macOS, or Linux)
-
+![](images/XAMPP_download.png)
 #### Step 2: Install XAMPP
 1. Run the XAMPP installer
 2. Follow the installation guide provided by Apache Friends
@@ -69,11 +69,11 @@ Follow these steps to set up your local development environment:
 2. Click the **Start** buttons (highlighted in red) next to:
    - **Apache** - Web server
    - **MySQL** - Database server
-
+![](images/XAMPP_start.png)
 #### Step 4: Open the MySQL Shell
 1. Click on the **Shell** button on the right side of the XAMPP Control Panel window
 2. A black command window should open
-
+![](images/XAMPP_shell.png)
 #### Step 5: Connect to MySQL Server
 1. In the shell window, type the following command:
    ```bash
