@@ -82,8 +82,7 @@ Follow these steps to set up your local development environment:
 2. When prompted for a password, simply press **Enter** (the default XAMPP password is empty)
 3. You should now be connected to the MySQL server
 
+##
 **Note:** You are now ready to create databases and run SQL queries for the lab assignments.
-
-
 
 *This repository contains course materials and assignments for educational purposes.*
