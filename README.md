@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains coursework and lab assignments for CSE370: Database Systems. The course covers fundamental concepts in database design, implementation, and management. Through a series of hands-on lab assignments, students explore relational database theory, SQL queries, database normalization, and practical database applications.
+This repository contains lab assignments for CSE370: Database Systems. The course covers fundamental concepts in database design, implementation, and management. Through a series of hands-on lab assignments, students explore relational database theory, SQL queries, database normalization, and practical database applications.
 
 ## Course Information
 
@@ -47,6 +47,7 @@ CSE370-Database-Systems/
 
 - **DBMS:** (SQL-based relational database)
 - **Languages:** SQL
+- **XAMPP**
 
 ## Installation and Setup Guide
 
@@ -82,13 +83,6 @@ Follow these steps to set up your local development environment:
 3. You should now be connected to the MySQL server
 
 **Note:** You are now ready to create databases and run SQL queries for the lab assignments.
-
-## How to Get Started
-
-1. Clone this repository
-2. Start with `LabAssignment01.pdf` for foundational concepts
-3. Progress through the labs sequentially for building complexity
-4. Refer to student view PDFs for helpful hints and examples
 
 
 
