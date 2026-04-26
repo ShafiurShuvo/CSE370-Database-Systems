@@ -85,4 +85,15 @@ Follow these steps to set up your local development environment:
 ##
 **Note:** You are now ready to create databases and run SQL queries for the lab assignments.
 
+## Course Project
+
+In addition to the lab assignments, a comprehensive course project was developed:
+
+### Blood Bank Management System
+A full-featured database application for managing blood bank operations, including donor management, blood inventory tracking, and request handling.
+
+**Repository:** [Blood-Bank-Management-System](https://github.com/ShafiurShuvo/Blood-Bank-Management-System)
+
+This project applies the database concepts learned throughout the course to a real-world web application.
+
 *This repository contains course materials and assignments for educational purposes.*
